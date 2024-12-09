@@ -1,0 +1,2 @@
+# footer
+MY RESPONSIVE FOOTER 
